@@ -1,0 +1,3 @@
+rootProject.name = "StoreUtils"
+include ':app'
+include ':store'
